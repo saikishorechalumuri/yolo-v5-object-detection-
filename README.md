@@ -16,7 +16,7 @@ This project is Trained Under Predetermined coco-data Set
  ](https://www.anaconda.com/products/distribution)
  - [python version(>3.6)](https://www.python.org/downloads/)
  - [VS Build tools](https://visualstudio.microsoft.com/downloads/)
- - [Nvidia Tool Kit](https://developer.nvidia.com/cuda-downloads)
+ - [Nvidia Tool Kit](https://developer.nvidia.com/cuda-downloads)//if you are using GPU
  - [pytorch](https://pytorch.org/get-started/locally/)
  - [coco Api in anconda env](MSCOCO Command: pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI)
  
