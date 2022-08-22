@@ -1,12 +1,13 @@
 
-This Project is to detect the object locally in Conda environment, with help of Pre trained Data sets Using Yolo version V5 network 
+
 # yolo Version v5 Object Detection 
 
 This project is a pretrained Object detection project.Which takes an input data of images and vedios and Break them into vectors  using yolo v5 network and create a object detected output Result
 
-This Project is to detect the object locally in Conda environment, with help of Pre trained Data sets Using Yolo version V5 network 
+This Project is to detect the object locally in Conda environment, with help of Pre trained Data sets Using Yolo version V5 network  it scans the objects from the real
+time world using some web camera at ceratin frames per second  and deploy the data to the yolo network(v5) and label them with predetermined data sets using coco-apis
 
-This project is Trained Under Predetermined coco-data Set 
+ 
 
 
 ## Acknowledgements
