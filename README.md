@@ -43,6 +43,9 @@ repository in to your system
 
 specfic commands mentioned below should be executed Only when  once all theAcknowledgements steps are done :
 
+Install all the necessary librarys or acknowldgements once a new env created in Conda environmenet.
+make sure download all the acknowldgements in that specfic folder 
+
 
 1)git clone https://github.com/ultralytics/yolov5  # clone
 (if cloning is problem download manually and specify the path in the conda env)
@@ -62,7 +65,7 @@ Note:If you miss any of the Acknowldgement Steps It  will show an error
 
 ####picture 
 ![image](https://user-images.githubusercontent.com/93335682/185914932-66db9ded-728a-49a0-b2bf-cb8a5aab4c93.png)
-RUN THE ABOVE COMMAND IN PICTURE BY GIVING THE SAME PATH To see the output 
+1)RUN THE ABOVE COMMAND IN PICTURE BY GIVING THE SAME PATH To see the output 
 
 
 2)![image](https://user-images.githubusercontent.com/93335682/185915115-3955273b-c18a-41ba-87d5-1bfc5f4f425d.png)
