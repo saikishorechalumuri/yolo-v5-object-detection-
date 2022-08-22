@@ -41,7 +41,7 @@ repository in to your system
 
 
 
-specfic commands mentioned below should be executed once all the steps are done :
+specfic commands mentioned below should be executed Only when  once all theAcknowledgements steps are done :
 
 
 1)git clone https://github.com/ultralytics/yolov5  # clone
