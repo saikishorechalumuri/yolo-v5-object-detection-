@@ -68,6 +68,12 @@ RUN THE ABOVE COMMAND IN PICTURE BY GIVING THE SAME PATH To see the output
 
 
 
+3)command to Run The Real Time data Here I used source 2 because Iam using an external IP Camera DROID CAMERA APP TO USE MY PHONE CAMERA TO Detect Real Time cameras 
+![image](https://user-images.githubusercontent.com/93335682/185937356-d3d12e77-4de6-42dd-a843-dfa267cbd3f3.png)
+
+
+
+
 Use the following command and execute it u can see the output in the 
 folder runs folder 
 
