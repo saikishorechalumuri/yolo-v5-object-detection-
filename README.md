@@ -60,9 +60,12 @@ Note:If you miss any of the Acknowldgement Steps It  will show an error
 ## Executing step
 
 ####picture 
+![image](https://user-images.githubusercontent.com/93335682/185914932-66db9ded-728a-49a0-b2bf-cb8a5aab4c93.png)
+RUN THE ABOVE COMMAND IN PICTURE BY GIVING THE SAME PATH To see the output 
 
 
-1)
+2)![image](https://user-images.githubusercontent.com/93335682/185915115-3955273b-c18a-41ba-87d5-1bfc5f4f425d.png)
+
 
 
 Use the following command and execute it u can see the output in the 
